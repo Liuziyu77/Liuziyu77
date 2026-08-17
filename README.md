@@ -2,7 +2,7 @@
 
 **Ph.D. student at Shanghai Jiao Tong University · Researcher at Shanghai AI Laboratory**
 
-[🌐 Homepage](https://liuziyu77.github.io/) · [🎓 Google Scholar](https://scholar.google.com/citations?user=hUrX-LMAAAAJ) · [✉️ Email](mailto:2184708350@qq.com) · [🧩 Open-Source Collection](https://liuziyu77.github.io/projects/)
+[🌐 Homepage](https://liuziyu77.github.io/) · [🎓 Google Scholar](https://scholar.google.com/citations?user=hUrX-LMAAAAJ) · [✉️ Email](mailto:2184708350@qq.com)
 
 My current research focuses on **recursive self-improvement (RSI)**, **agent harness engineering**, and **agentic post-training**. I am interested in building agents that can continually improve through interaction, stronger training environments, and scalable feedback. I welcome discussions and collaborations in these areas.
 
