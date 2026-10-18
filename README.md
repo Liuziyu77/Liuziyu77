@@ -19,7 +19,7 @@ I am advised by [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzz
 
 ### 🎯 RL & Reward Models
 
-- **Visual-ERM** (**First Author**): fine-grained, interpretable reward modeling for visual equivalence. [Paper](https://arxiv.org/abs/2603.13224) · [![GitHub Stars](https://img.shields.io/github/stars/InternLM/Visual-ERM?style=social&logo=github&label=Stars)](https://github.com/InternLM/Visual-ERM)
+- **Visual-ERM** (**First Author**): fine-grained, interpretable reward modeling for visual equivalence. **NeurIPS 2026**. [Paper](https://arxiv.org/abs/2603.13224) · [![GitHub Stars](https://img.shields.io/github/stars/InternLM/Visual-ERM?style=social&logo=github&label=Stars)](https://github.com/InternLM/Visual-ERM)
 - **ARM-Thinker**: multimodal reward modeling with visual reasoning and agentic tool use. **CVPR 2026**. [Paper](https://arxiv.org/abs/2512.05111) · [![GitHub Stars](https://img.shields.io/github/stars/InternLM/ARM-Thinker?style=social&logo=github&label=Stars)](https://github.com/InternLM/ARM-Thinker)
 - **SPARK** (**First Author**): synergistic policy and generative reward co-evolution. [Paper](https://arxiv.org/abs/2509.22624) · [![GitHub Stars](https://img.shields.io/github/stars/InternLM/Spark?style=social&logo=github&label=Stars)](https://github.com/InternLM/Spark)
 - **Visual-RFT** (**First Author**): visual reinforcement fine-tuning with verifiable rewards. **ICCV 2025**. [Paper](https://arxiv.org/abs/2503.01785) · [![GitHub Stars](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social&logo=github&label=Stars)](https://github.com/Liuziyu77/Visual-RFT)
