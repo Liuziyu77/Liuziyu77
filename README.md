@@ -42,7 +42,7 @@ I am advised by [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzz
 
 | Project | What it provides | GitHub |
 | --- | --- | --- |
-| [Valen](https://github.com/Liuziyu77/Valen) · **Project Lead** | Multimodal Jev-like fast decision modoel. System One Model, now with vision. | [![GitHub Stars](https://img.shields.io/github/stars/Liuziyu77/Valen?style=social&logo=github&label=Stars)](https://github.com/Liuziyu77/Valen) |
+| [Valen](https://github.com/Valen-Team/Valen) · **Project Lead** | Multimodal Jev-like fast decision modoel. System One Model, now with vision. | [![GitHub Stars](https://img.shields.io/github/stars/Valen-Team/Valen?style=social&logo=github&label=Stars)](https://github.com/Valen-Team/Valen) |
 | [ClaudeScope](https://liuziyu77.github.io/ClaudeScope/) · **Project Lead** | Interactive visualization and analysis of Claude Code session trajectories | [![GitHub Stars](https://img.shields.io/github/stars/Liuziyu77/ClaudeScope?style=social&logo=github&label=Stars)](https://github.com/Liuziyu77/ClaudeScope) |
 | [gene.skill](https://liuziyu77.github.io/gene-skill/) · **Project Lead** | Genetic recombination framework for creating new Agent Skills from existing capabilities | [![GitHub Stars](https://img.shields.io/github/stars/Liuziyu77/gene-skill?style=social&logo=github&label=Stars)](https://github.com/Liuziyu77/gene-skill) |
 | [AnythingAtlas](https://github.com/Liuziyu77/AnythingAtlas) · **Project Lead** | Agent Skill that maps high-quality resources into a personalized learning path for any topic | [![GitHub Stars](https://img.shields.io/github/stars/Liuziyu77/AnythingAtlas?style=social&logo=github&label=Stars)](https://github.com/Liuziyu77/AnythingAtlas) |
